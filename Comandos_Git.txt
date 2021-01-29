@@ -9,3 +9,6 @@ Estudando comando do Git
 6 - Comandos para salvar a versão:"
 	6.1 - git add . -> Comando para mandar os arquivos para a stage
 	6.2 - git commit -m "descrição do commit" -> Comando para enviar os commits que estão na stage
+7 - Comandos para voltar ao último commit:
+	7.1 - git clean -df
+	7.2 - git checkout
