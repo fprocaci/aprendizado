@@ -2,3 +2,6 @@
 2 - Procurar no google por gitignore visual studio 2020 para pegar as exclusões
 3 - Iniciar o gitbash na pasta do repositório
 4 - git init -> comamdo para inicializar o repositório
+5 - Comandos de identificação:
+	5.1 - git config --global user.name "Fabrício Procaci"
+	    - git config --global user.email "fprocaci@gmail.com"
