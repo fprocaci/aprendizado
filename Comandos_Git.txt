@@ -17,3 +17,6 @@ Estudando comando do Git
 9 - Comandos para reescrever a descrição do último commit e para desfazer o último commit
 	9.1 - git reset --soft HEAD~1 -> comando para reescrever a descrição do último commit
 	9.2 - git reset --hard HEAD~1 -> comando para desfazer o último commit
+10 - Comando para assossiar meu repositório local ao do GitHub
+	10.1 - git remote add origin <URI do repósitório no GitHub>
+	10.2 - git remote set-url origin <URI do repósitório no GitHub>
