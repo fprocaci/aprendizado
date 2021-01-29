@@ -20,3 +20,5 @@ Estudando comando do Git
 10 - Comando para assossiar meu repositório local ao do GitHub
 	10.1 - git remote add origin <URI do repósitório no GitHub>
 	10.2 - git remote set-url origin <URI do repósitório no GitHub>
+11 - Comando para clonar um repositório do GitHub
+	11.1 - git clone <copiar a URl do repositório>
