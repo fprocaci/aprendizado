@@ -1,0 +1,1 @@
+1 - Criar um arquivo ".gitignore" na pasta inicial do repositório
