@@ -14,3 +14,6 @@ Estudando comando do Git
 	7.2 - git checkout
 8 - Comando para ver todos os commits e suas descrições
 	8.1 - git log --oneline
+9 - Comandos para reescrever a descrição do último commit e para desfazer o último commit
+	9.1 - git reset --soft HEAD~1 -> comando para reescrever a descrição do último commit
+	9.2 - git reset --hard HEAD~1 -> comando para desfazer o último commit
