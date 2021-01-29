@@ -1,2 +1,3 @@
 1 - Criar um arquivo ".gitignore" na pasta inicial do repositório
 2 - Procurar no google por gitignore visual studio 2020 para pegar as exclusões
+3 - Iniciar o gitbash na pasta do repositório
