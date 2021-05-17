@@ -22,4 +22,7 @@
     1. git remote add origin <URI do repósitório no GitHub>
     2. git remote set-url origin <URI do repósitório no GitHub>
 11. Comando para clonar um repositório do GitHub
+    1. git clone <copiar a URl do repositório>
+12. Comando para atualizar o repositório local
+    1. git pull origin master
 
